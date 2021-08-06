@@ -1,6 +1,6 @@
 # planetrian
 
-Dicoding Submission
+
 
 ## Getting Started
 
